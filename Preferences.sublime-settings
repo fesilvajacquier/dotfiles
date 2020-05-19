@@ -1,4 +1,5 @@
 {
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).sublime-color-scheme",
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -18,22 +19,29 @@
 		"public/packs",
 		"coverage"
 	],
+	"font_size": 17,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"zzz A File Icon zzz"
 	],
 	"remember_open_files": false,
 	"rulers":
 	[
-		80
+		80,
+		99
 	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"show_line_annotations": true,
 	"tab_size": 2,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
 	"use_tab_stops": true,
-	"wordWrap": false
+	"word_wrap": true
 }

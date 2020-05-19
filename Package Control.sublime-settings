@@ -5,15 +5,27 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"API Blueprint",
 		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
 		"Emmet",
 		"ERB Snippets",
+		"ESLint",
 		"Git",
+		"Git blame",
 		"GitGutter",
 		"Package Control",
+		"Pretty JSON",
+		"RuboCop",
+		"Sass",
 		"SCSS",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-rubocop"
 	]
