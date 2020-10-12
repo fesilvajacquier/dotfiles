@@ -46,3 +46,8 @@ export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bi
 . ~/z.sh
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+
+ export NVM_DIR=~/.nvm
+ [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
